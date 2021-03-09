@@ -12,21 +12,120 @@ class App extends React.Component {
           <li>
             <p>
               Google Drive chứa tài liệu:&nbsp;
-              <a href="">
+              <a href="https://drive.google.com/drive/folders/15nU77aFULqZq2FFJchqS16WG0qmEykwc?usp=sharing">
                 Link
               </a>
             </p>
           </li>
           <li>
-          <p>
+            <p>
               Link Trello:&nbsp;
               <a href="">
                 Link
               </a>
             </p>
           </li>
-
+        </ul>
+        <hr />
+          <h1>Nội dung nộp</h1>
+          <ul>
+            <li>
+              <p>
+                Video bảo vệ thử khoá luận:&nbsp;
+              <a href="">
+                  Link
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Video hướng dẫn triển khai:&nbsp;
+              <a href="">
+                  Link
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Video demo ứng dụng:&nbsp;
+              <a href="">
+                  Link
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>Mã nguồn:&nbsp;</p>
+              <ul>
+                <li>
+                  <p>
+                    Mã nguồn iOS:&nbsp;
+              <a href="">
+                      Link (github)
+              </a>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Mã nguồn backend:&nbsp;
+              <a href="">
+                      Link (github)
+              </a>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Mã nguồn trang demo:&nbsp;
+              <a href="">
+                      Link (github)
+              </a>
+                  </p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <p>
+                Slide thuyết trình bảo vệ:&nbsp;
+              <a href="">
+                  Link
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Luận văn:&nbsp;
+              <a href="">
+                  (PDF)
+              </a>
+              <a href="">
+                  (docx)
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Tài liệu hướng dẫn cài đặt và biên dịch:&nbsp;
+              <a href="">
+                  (PDF)
+              </a>
+              <a href="">
+                  (docx)
+              </a>
+              </p>
+            </li>
+            <li>
+              <p>
+                Tài liệu hướng dẫn triển khai:&nbsp;
+              <a href="">
+                  (PDF)
+              </a>
+              <a href="">
+                  (docx)
+              </a>
+              </p>
+            </li>
           </ul>
+        <hr />
+        
       </>
     );
   }
