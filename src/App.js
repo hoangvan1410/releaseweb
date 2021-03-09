@@ -17,6 +17,14 @@ class App extends React.Component {
               </a>
             </p>
           </li>
+          <li>
+          <p>
+              Link Trello:&nbsp;
+              <a href="">
+                Link
+              </a>
+            </p>
+          </li>
 
           </ul>
       </>
