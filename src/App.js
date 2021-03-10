@@ -125,7 +125,35 @@ class App extends React.Component {
             </li>
           </ul>
         <hr />
-        
+        <h1>Cập nhật quá trình</h1>
+        <h2>09/03/2021</h2>
+        <ul>
+          <li>
+            <a href="">
+              Prototype tính năng đo nhịp tim
+            </a>
+          </li>
+          <li>
+            <a href="">
+              Design logo app
+            </a>
+          </li>
+          <li>
+            <a href="https://vsrelease072021.herokuapp.com/">
+              Website release
+            </a>
+          </li>
+          <li>
+            <a href="">
+              Sơ đồ lưu trữ dữ liệu
+            </a>
+          </li>
+          <li>
+            <a href="">
+              Phân tích, chạy thử thư viện / mã nguồn mở 
+            </a>
+          </li>
+        </ul>
       </>
     );
   }
