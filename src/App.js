@@ -126,6 +126,31 @@ class App extends React.Component {
           </ul>
         <hr />
         <h1>Cập nhật quá trình</h1>
+        
+        <h2>16/03/2021</h2>
+        <ul>
+          <li>
+            <p>
+            Cập nhật các hàm liên quan tới tính năng đo nhịp tim
+            </p>
+          </li>
+          <li>
+            <p>
+            Chức năng đăng kí/ đăng nhập/ đăng nhập bằng Google
+            </p>
+          </li>
+          <li>
+            <p>
+            Tạo dữ liệu giả cho mục đích test
+            </p>
+          </li>
+          <li>
+            <p>
+            Cập nhật Prototype hoàn chỉnh
+            </p>
+          </li>
+        </ul>
+        
         <h2>09/03/2021</h2>
         <ul>
           <li>
