@@ -20,7 +20,7 @@ class App extends React.Component {
           <li>
             <p>
               Link Trello:&nbsp;
-              <a href="">
+              <a href="https://trello.com/heartratemonitor2021">
                 Link
               </a>
             </p>
@@ -59,7 +59,7 @@ class App extends React.Component {
                 <li>
                   <p>
                     Mã nguồn iOS:&nbsp;
-              <a href="">
+              <a href="https://github.com/vandat0599/Heart-Rate-Monitoring-iOS">
                       Link (github)
               </a>
                   </p>
@@ -67,7 +67,7 @@ class App extends React.Component {
                 <li>
                   <p>
                     Mã nguồn backend:&nbsp;
-              <a href="">
+              <a href="https://github.com/HongCong9991/Heart-Rate-Monitor-Backend">
                       Link (github)
               </a>
                   </p>
@@ -154,7 +154,7 @@ class App extends React.Component {
         <h2>09/03/2021</h2>
         <ul>
           <li>
-            <a href="">
+            <a href="https://drive.google.com/file/d/1RhfNkrwM8JZmDkMdr1ZBByoih-wD7nwN/view?usp=sharing">
               Prototype tính năng đo nhịp tim
             </a>
           </li>
@@ -169,14 +169,14 @@ class App extends React.Component {
             </a>
           </li>
           <li>
-            <a href="">
+            <a href="https://drive.google.com/file/d/16vFXtpweo4ySWccbEqynNK5TIQuNWQ9K/view?usp=sharing">
               Sơ đồ lưu trữ dữ liệu
             </a>
           </li>
           <li>
-            <a href="">
+            <p>
               Phân tích, chạy thử thư viện / mã nguồn mở 
-            </a>
+            </p>
           </li>
         </ul>
       </>
