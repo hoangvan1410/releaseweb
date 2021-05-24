@@ -47,14 +47,14 @@ class App extends React.Component {
             <li><p>Mã nguồn:&nbsp;</p>
               <ul>
                 <li><p>Mã nguồn iOS:&nbsp;
-                  <a href="https://github.com/hcmus2021/Heart-Rate-Monitoring-iOS">
-                          Link (github)
-                  </a></p>
+                  <a href="https://github.com/hcmus2021/Heart-Rate-Monitoring-iOS"> (github)</a>
+                  <a href="https://drive.google.com/file/d/1FttXlGW5U6_wGVMm4okucoqDUkmiJFI4/view?usp=sharing"> (.zip)</a>
+                  </p>
                 </li>
                 <li><p>Mã nguồn backend:&nbsp;
-                  <a href="https://github.com/HongCong9991/heart-rate-monitor">
-                          Link (github)
-                  </a></p>
+                  <a href="https://github.com/HongCong9991/heart-rate-monitor"> (github)</a>
+                  <a href="https://drive.google.com/file/d/1mk7RwgFXj00PqBmqvQyxolRHjkpvLZTW/view?usp=sharing"> (.zip)</a>
+                  </p>
                 </li>
               </ul>
             </li>
