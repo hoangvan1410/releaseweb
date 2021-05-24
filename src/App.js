@@ -29,105 +29,92 @@ class App extends React.Component {
         <hr />
           <h1>Nội dung nộp</h1>
           <ul>
-            <li>
-              <p>
-                Video bảo vệ thử khoá luận:&nbsp;
-              <a href="">
-                  Link
-              </a>
-              </p>
+            <li><p>Link tải ứng dụng:&nbsp;
+              <a href="https://apps.apple.com/vn/app/heart-rate-monitor-2021/id1568915151">Link</a></p>
             </li>
-            <li>
-              <p>
-                Video hướng dẫn triển khai:&nbsp;
-              <a href="">
-                  Link
-              </a>
-              </p>
+            <li><p>Video bảo vệ thử khoá luận:&nbsp;
+              <a href="">Link</a></p>
             </li>
-            <li>
-              <p>
-                Video demo ứng dụng:&nbsp;
-              <a href="">
-                  Link
-              </a>
-              </p>
+            <li><p>Video hướng dẫn cài đặt và sử dụng phần mềm:&nbsp;
+              <a href="https://drive.google.com/file/d/1-XjQg5rNrjZxB-vbVpBpJvII3B6B0J30/view?usp=sharing">Link</a></p>
             </li>
-            <li>
-              <p>Mã nguồn:&nbsp;</p>
+            <li><p>Video hướng dẫn triển khai API server:&nbsp;
+              <a href="https://drive.google.com/file/d/1R_hLMZJwuV2E3t_TfwY3SXa3NXwIVeJr/view?usp=sharing">Link</a></p>
+            </li>
+            <li><p>Video demo ứng dụng:&nbsp;
+              <a href="https://drive.google.com/file/d/1Iqj7QVjFf3x4McUK2QUbMIyPSXUetCkX/view?usp=sharing">Link</a></p>
+            </li>
+            <li><p>Mã nguồn:&nbsp;</p>
               <ul>
-                <li>
-                  <p>
-                    Mã nguồn iOS:&nbsp;
-              <a href="https://github.com/vandat0599/Heart-Rate-Monitoring-iOS">
-                      Link (github)
-              </a>
-                  </p>
+                <li><p>Mã nguồn iOS:&nbsp;
+                  <a href="https://github.com/hcmus2021/Heart-Rate-Monitoring-iOS">
+                          Link (github)
+                  </a></p>
                 </li>
-                <li>
-                  <p>
-                    Mã nguồn backend:&nbsp;
-              <a href="https://github.com/HongCong9991/Heart-Rate-Monitor-Backend">
-                      Link (github)
-              </a>
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Mã nguồn trang demo:&nbsp;
-              <a href="">
-                      Link (github)
-              </a>
-                  </p>
+                <li><p>Mã nguồn backend:&nbsp;
+                  <a href="https://github.com/HongCong9991/heart-rate-monitor">
+                          Link (github)
+                  </a></p>
                 </li>
               </ul>
             </li>
-            <li>
-              <p>
-                Slide thuyết trình bảo vệ:&nbsp;
-              <a href="">
-                  Link
-              </a>
+            <li><p>Slide thuyết trình bảo vệ:&nbsp;
+              <a href="">Link</a></p>
+            </li>
+            <li><p>Luận văn:&nbsp;
+              <a href="https://drive.google.com/file/d/1IC_U28YE2DB3klKFGPOsg_WeNA3OW7lt/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1YHt3qdm720PiDlCx5Q_0Ocm9BvZwIPLJ/view?usp=sharing">(docx)</a>
               </p>
             </li>
-            <li>
-              <p>
-                Luận văn:&nbsp;
-              <a href="">
-                  (PDF)
-              </a>
-              <a href="">
-                  (docx)
-              </a>
+            <li><p>Tài liệu hướng dẫn cài đặt và sử dụng:&nbsp;
+              <a href="">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1i5PRNRWf5kj9uQzecNfynbZvS8b7R1W1/view?usp=sharing">(docx)</a>
               </p>
             </li>
-            <li>
-              <p>
-                Tài liệu hướng dẫn cài đặt và biên dịch:&nbsp;
-              <a href="">
-                  (PDF)
-              </a>
-              <a href="">
-                  (docx)
-              </a>
+            <li><p>Tài liệu hướng dẫn triển khai ứng dụng lên App Store:&nbsp;
+              <a href="https://drive.google.com/file/d/1wMnKw2HbqtGPGCqpohZkIYqR_xL9Eeeu/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1o1oIVkgzZuXpN5-F5P5MasqhWvW7ZGkv/view?usp=sharing">(docx)</a>
               </p>
             </li>
-            <li>
-              <p>
-                Tài liệu hướng dẫn triển khai:&nbsp;
-              <a href="">
-                  (PDF)
-              </a>
-              <a href="">
-                  (docx)
-              </a>
+            <li><p>Tài liệu hướng dẫn triển khai API server lên Heroku:&nbsp;
+              <a href="https://drive.google.com/file/d/15z-Kh1Ythz9aBwRPGj-9THMnAvAkYehI/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1PrLxBfmtf3_5okJbKAiCBrWUYVkPOFr8/view?usp=sharing">(docx)</a>
+              </p>
+            </li>
+            <li><p>Tài liệu hướng dẫn cài đặt công cụ và biên dịch mã nguồn cho OS sạch (iOS):&nbsp;
+              <a href="https://drive.google.com/file/d/1CTxThOr4snEHMtdFjN8Q7FGrNys7LjZM/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1h6HjuxmKWAF2aN3mrfVDYlaKsvhMRM3C/view?usp=sharing">(docx)</a>
+              </p>
+            </li>
+            <li><p>Tài liệu hướng dẫn cài đặt công cụ và biên dịch mã nguồn cho OS sạch (backend):&nbsp;
+              <a href="https://docs.google.com/document/d/1r3v9jI78--JuhfncoWmplrfWKb6WD6t893y_LcWfmqg/edit?usp=sharing">(PDF)</a>
+              <a href="https://docs.google.com/document/d/1r3v9jI78--JuhfncoWmplrfWKb6WD6t893y_LcWfmqg/edit?usp=sharing">(docx)</a>
+              </p>
+            </li>
+            <li><p>Tài liệu hướng dẫn làm trang release:&nbsp;
+              <a href="https://drive.google.com/file/d/1C3zqa59FiNMWnMWvWoHzEGPFna4NaE1A/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1GFBkPkgsBwCdCp5R_mNLWoiLogopRsde/view?usp=sharing">(docx)</a>
               </p>
             </li>
           </ul>
         <hr />
         <h1>Cập nhật quá trình</h1>
 
+        <h2>24/05/2021</h2>
+          <li><a href="">
+            Hoàn thành CD </a></li>
+          <li><a href="https://apps.apple.com/vn/app/heart-rate-monitor-2021/id1568915151">
+            Release ứng dụng phiên bản 1.1 </a></li>
+
+          <h2>17/05/2021</h2>
+          <li><a href="https://apps.apple.com/vn/app/heart-rate-monitor-2021/id1568915151">
+            Release ứng dụng phiên bản 1.0 </a></li>
+
         <h2>04/05/2021</h2>
+          <li><a href="">
+            Cập nhật chương tổng kết luận văn(5.1 & 5.2) </a></li>
+          <li><a href="https://health-info-services.herokuapp.com/docs/">
+            Api document cho healthInfo services </a></li>
 
         <h2>27/04/2021</h2>
 
