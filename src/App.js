@@ -100,6 +100,20 @@ class App extends React.Component {
         <hr />
         <h1>Cập nhật quá trình</h1>
 
+        <h2>12/06/2021</h2>
+          <li>Bổ sung chi tiết luận văn (Chương 3,4) </li>
+          <li><a href="https://apps.apple.com/vn/app/heart-rate-monitor-2021/id1568915151">
+            Release ứng dụng phiên bản 1.1.0 </a></li>
+
+        <h2>06/06/2021</h2>
+          <li><a href="https://admin-page-v1.herokuapp.com/admin/login">
+            Hoàn thành Trang quản lý Dữ liệu </a></li>
+          <li><a href="https://apps.apple.com/vn/app/heart-rate-monitor-2021/id1568915151">
+            Release ứng dụng phiên bản 1.1.0 </a>
+            <ul>
+              <li><p>Làm mượt đồ thị nhịp tim hiển thị trong ứng dụng</p></li>
+              <li><p>Đồng bộ tất cả lịch sử đo nhịp tim của người dùng lên máy chủ</p></li>
+            </ul></li>
         <h2>24/05/2021</h2>
           <li><a href="">
             Hoàn thành CD </a></li>
@@ -111,8 +125,7 @@ class App extends React.Component {
             Release ứng dụng phiên bản 1.0 </a></li>
 
         <h2>04/05/2021</h2>
-          <li><a href="">
-            Cập nhật chương tổng kết luận văn(5.1 & 5.2) </a></li>
+          <li>Cập nhật chương tổng kết luận văn(5.1 & 5.2) </li>
           <li><a href="https://health-info-services.herokuapp.com/docs/">
             Api document cho healthInfo services </a></li>
 
@@ -122,8 +135,7 @@ class App extends React.Component {
         <ul>
           <li><a href="">
           Chức năng gửi thông báo nhắc nhở người dùng đo nhịp tim </a></li>
-          <li><a href="">
-          Cập nhật chương 4 luận văn </a></li>
+          <li>Cập nhật chương 4 luận văn </li>
         </ul>
 
         <h2>13/04/2021</h2>
@@ -132,8 +144,7 @@ class App extends React.Component {
           Giao diện lịch sử đo nhịp tim</a></li>
           <li><a href="">
           Docker file cho backend</a></li>
-          <li><a href="">
-          Cập nhật chương 1 luận văn</a></li>
+          <li>Cập nhật chương 1 luận văn</li>
         </ul>
 
         <h2>06/04/2021</h2>
