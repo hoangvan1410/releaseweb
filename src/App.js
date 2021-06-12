@@ -87,8 +87,8 @@ class App extends React.Component {
               </p>
             </li>
             <li><p>Tài liệu hướng dẫn cài đặt công cụ và biên dịch mã nguồn cho OS sạch (backend):&nbsp;
-              <a href="https://docs.google.com/document/d/1r3v9jI78--JuhfncoWmplrfWKb6WD6t893y_LcWfmqg/edit?usp=sharing">(PDF)</a>
-              <a href="https://docs.google.com/document/d/1r3v9jI78--JuhfncoWmplrfWKb6WD6t893y_LcWfmqg/edit?usp=sharing">(docx)</a>
+              <a href="https://drive.google.com/file/d/1QmJ1KEyjtF69ctRNm2zCqit2ZoifWrq6/view?usp=sharing">(PDF)</a>
+              <a href="https://drive.google.com/file/d/1CbxLTnHYScU1OENUoLT_1RQMUJw-Iaw1/view?usp=sharing">(docx)</a>
               </p>
             </li>
             <li><p>Tài liệu hướng dẫn làm trang release:&nbsp;
